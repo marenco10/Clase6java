@@ -7,7 +7,7 @@ public class cuarto {
         Scanner entrada = new Scanner(System.in);
         try {
             int dato;
-            System.out.println("Digite numero");
+            System.out.println("Digite 2 numeros");
             dato = entrada.nextInt();
             System.out.println("El numero es :" + dato);
         } catch (Exception e) {
